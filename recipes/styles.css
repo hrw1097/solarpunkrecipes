@@ -1,0 +1,16 @@
+.recipe-title {
+    text-align: center;
+}
+
+.recipe-body {
+    text-align: center;
+    align-content: center;
+}
+
+
+
+.recipe-ingredients ul,
+.recipe-instructions ul {
+    text-align: center;
+    list-style-type: none;
+}
